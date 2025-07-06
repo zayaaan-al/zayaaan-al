@@ -61,6 +61,6 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadahammad&show_icons=true&locale=en&layout=compact" alt="jiyadahammad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadahammad&" alt="jiyadahammad" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadahammad&" alt="jiyadahammad" /></p>
 
-<br><br><br>[![@jiaydahammad's Holopin board](https://holopin.me/jiaydahammad)](https://holopin.io/@jiaydahammad)<br><br><br>
+<br><br><br>[![@jiaydahammad's Holopin board](https://holopin.me/jiaydahammad)](https://holopin.io/@jiaydahammad)<br><br><br>-->
