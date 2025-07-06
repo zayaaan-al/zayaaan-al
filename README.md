@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zayan_al&label=Profile%20views&color=0e75b6&style=flat" alt="zayan_al" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=zayan_al&label=Profile%20views&color=0e75b6&style=flat" alt="zayan_al" /> </p> -->
 
 
 ![zayan's github stats](https://github-readme-stats.vercel.app/api?username=zayan_al&show_icons=true&theme=react)
