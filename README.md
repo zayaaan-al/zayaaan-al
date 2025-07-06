@@ -35,7 +35,7 @@
 
 ## ⚙️ LeetCode Analytics
 <p align="center">
-    <a href="https://https://leetcode.com/u/zayan_al/"><img width="48%" src="https://https://leetcode.com/u/zayan_al?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://https://leetcode.com/u/zayan_al/"><img width="48%" src=https://leetcode.card.workers.dev/jiyadahammad?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
 
 
