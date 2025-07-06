@@ -1,6 +1,6 @@
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Zayan+%F0%9F%91%8B;FullStack-+Mern+-Developer;Problem+Solver;React |+Node.js |+MongoDB |+Express.js" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com/demo/?size=30&color=20F751&width=800&lines=Hi+there+I'm+Zayan+%F0%9F%91%8B%2C;FullStack+-+Mern+-+Developer;React+%7C+Node.js+%7C+Express.js+%7C+Mongo" alt="Headline" />
     </div>
 
 <hr>
