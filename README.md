@@ -8,12 +8,4 @@
 
 
 
-### 📊 GitHub Stats
 
-![Zayaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayaaan-al&show_icons=true&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=zayaaan-al&theme=darkhub&row=1&no-frame=true)](https://github.com/zayaaan-al)
