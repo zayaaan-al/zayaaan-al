@@ -9,9 +9,9 @@
 
 ### 🌐 Connect with me
 
-- 🌍 Website: [zayan.dev](https://zayan.dev)
-- 💼 LinkedIn: [linkedin.com/in/zayaaan](https://linkedin.com/in/zayaaan)
-- 📧 Email: zayan@example.com *(change if needed)*
+
+- 💼 LinkedIn: [linkedin.com/in/zayaaan](https://www.linkedin.com/in/al-zayan-p-973359330)
+- 📧 Email: alzayanpoothakkal1156@gmail.com 
 
 ---
 
@@ -40,12 +40,4 @@
 
 > I turn ☕ into code and ideas into interactive websites!
 
----
 
-Let me know if you want to:
-- Add a **GIF**
-- Include **project showcases**
-- Use **dark theme**
-- Update **email/domain/linkedin**
-
-Would you like me to create a downloadable version (`README.md` file)?
