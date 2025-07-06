@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Open+Source+Contributor;Building+zayan.dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=520&lines=Hi+there+I'm+Zayan+👋,+Mern+Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Open+Source+Contributor;Building+zayan.dev" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,7 +38,3 @@
 ### ⚡ Fun Fact
 
 > I turn ☕ into code and ideas into interactive websites!
-
-
-
-
