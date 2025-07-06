@@ -2,6 +2,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20F751&width=800&lines=Hi+there+I'm+Zayan+%F0%9F%91%8B%2C;FullStack+-+Mern+-+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB" alt="Typing SVG" /></a>
 
 <hr>
+<!-- 🔭 I’m currently working at [OONZOO PORTAL LLC](https://oonzoo.ae/) -->
+
+- 🌱 I’m currently learning **Mern**
+
+<!-- 👯 I’m looking to collaborate on [Music Player](https://github.com/JiyadAhammad/music-player)-->
+
+<!-- 📝 I regularly write articles on [Mobile App Development](Mobile App Development)-->
+
+- 💬 Ask me about **C, Java, Mern, JavaScript, Html, CSS, Python**
+
+- 📫 How to reach me **alzayanpoothakkal1156@gmail.com**
 
 <!-- <h1 align="center">Hi 👋, I'm Jiyad Ahammad</h1> -->
 
@@ -28,17 +39,7 @@
 </p>
 
 
-<!-- 🔭 I’m currently working at [OONZOO PORTAL LLC](https://oonzoo.ae/) -->
 
-- 🌱 I’m currently learning **Mern**
-
-<!-- 👯 I’m looking to collaborate on [Music Player](https://github.com/JiyadAhammad/music-player)-->
-
-<!-- 📝 I regularly write articles on [Mobile App Development](Mobile App Development)-->
-
-- 💬 Ask me about **C, Java, Mern, JavaScript, Html, CSS, Python**
-
-- 📫 How to reach me **alzayanpoothakkal1156@gmail.com**
 
 
 
