@@ -3,6 +3,8 @@
  </div>
 
 
+<hr>
+
 - 🌱 I’m currently learning **Mern**
 
 - 💬 Ask me about **C, Java, Mern, JavaScript, Html, CSS, Python**
