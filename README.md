@@ -9,7 +9,6 @@
 
 ### 🌐 Connect with me
 
-
 - 💼 LinkedIn: [linkedin.com/in/zayaaan](https://www.linkedin.com/in/al-zayan-p-973359330)
 - 📧 Email: alzayanpoothakkal1156@gmail.com 
 
@@ -39,5 +38,7 @@
 ### ⚡ Fun Fact
 
 > I turn ☕ into code and ideas into interactive websites!
+
+
 
 
