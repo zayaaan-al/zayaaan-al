@@ -1,4 +1,4 @@
-<div align=center  ,margin-top=120px>
+<div align=center ; margin-top=120px>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20F751&width=800&lines=Hi+there+I'm+Zayan+%F0%9F%91%8B%2C;FullStack+-+Mern+-+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB" alt="Typing SVG" /></a>
  </div>
 <hr>
