@@ -15,6 +15,14 @@
 <a href="https://www.instagram.com/zayaaan.al/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zayaan.al/" height="30" width="40" /></a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zayaaan-al&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zayaaan-al&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zayaaan-al&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zayaaan-al&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## ⚙️ LeetCode Analytics
 <p align="center">
     <a href="https://leetcode.com/u/zayan_al/"><img width="48%" src="https://leetcode.card.workers.dev/zayan_al?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
