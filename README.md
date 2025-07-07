@@ -1,24 +1,9 @@
-<br><div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20F751&width=800&lines=Hi+there+I'm+Zayan+%F0%9F%91%8B%2C;FullStack+-+Mern+-+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB" alt="Typing SVG" /></a>
- </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=6000&pause=1000&color=1BF758&center=true&vCenter=true&width=800&lines=Hi+there+I'm+Zayan+++%F0%9F%91%8B;FullStack+-+Mern+-+Developer;Problem+Solver;Open+-+Source++Enthusiast" alt="Typing SVG" /></a>
 <hr>
 
 - 🌱 I’m currently learning **Mern**
 
 - 💬 Ask me about **Mern, JavaScript, Html, CSS, Python**
-
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/al-zayan-p-973359330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/al-zayan-p-973359330/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zayaaan.al/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zayaan.al/" height="30" width="40" /></a>
-</p>-->
-
-
-
-
-
-
-
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zayaaan.al) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-zayan-p-973359330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alzayanpoothakkal1156@gmail.com) 
@@ -47,9 +32,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=zayaaan-al&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
