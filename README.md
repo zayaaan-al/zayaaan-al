@@ -1,7 +1,9 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=50&fontColor=00D9FF&animation=twinkling&fontAlignY=35" width="100%"/>
-</div>
+</div> -->
+<img align="centert" alt="Profile" width="full" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=👋+Hi+there%2C+I'm+Zayan;🚀+Full+Stack+Developer;💡+Problem+Solver+%26+Innovator;🌟+Open+Source+Enthusiast;✨+Building+Digital+Experiences" alt="Typing SVG" />
 </div>
