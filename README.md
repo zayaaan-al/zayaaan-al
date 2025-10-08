@@ -43,6 +43,18 @@ const zayan = {
 
 ---
 
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00D9FF)]( https://alzayan-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-zayan-p-973359330)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zayaaan.al)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alzayanpoothakkal1156@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zayan_al/)
+
+<br>
+
 ## 🎯 Skills & Technologies
 
 <div align="center">
@@ -136,17 +148,7 @@ const zayan = {
 
 ---
 
-## 🤝 Let's Connect!
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00D9FF)]( https://alzayan-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-zayan-p-973359330)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zayaaan.al)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alzayanpoothakkal1156@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zayan_al/)
-
-<br>
 
 ### 💬 **Open to collaborations and exciting projects!**
 
