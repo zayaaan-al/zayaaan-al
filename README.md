@@ -64,9 +64,7 @@ const zayan = {
 
 ### 🌟 What I'm Up To
 
-
 <img align="right" alt="Profile" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
 
 
 - 🔭 **Building:** Innovative web applications with modern tech stacks
@@ -77,15 +75,21 @@ const zayan = {
 - ⚡ **Superpower:** Turning caffeine ☕ into clean code 💻
 
 <br clear="right"/>
+
+<br><br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
+
 ---
 
-## 🤝 Let's Connect!
+## 📫 Let's Connect & Collaborate!
 
 <div align="center">
+
+ ### 🌐 Find Me Around The Web
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00D9FF)](https://alzayan-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-zayan-p-973359330)
@@ -95,7 +99,7 @@ const zayan = {
 
 <br>
 
- ### 💬 Let's Build Something Amazing Together!
+### 💬 Let's Build Something Amazing Together!
 
 <img src="https://img.shields.io/badge/Open%20for-Collaborations-success?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&logo=book&logoColor=white" />
@@ -336,14 +340,10 @@ const zayan = {
 
 ---
 
-## 📈 Contribution Snake
+## 🎨 Code Visualization
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayaaan-al/zayaaan-al/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayaaan-al/zayaaan-al/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zayaaan-al/zayaaan-al/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
 
 ---
