@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=👋+Hi+there%2C+I'm+Zayan;🚀+Full+Stack+MERN+Developer;💡+Problem+Solver+%26+Innovator;🌟+Open+Source+Enthusiast;✨+Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=👋+Hi+there%2C+I'm+Zayan;🚀+Full+Stack+Developer;💡+Problem+Solver+%26+Innovator;🌟+Open+Source+Enthusiast;✨+Building+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <br>
@@ -41,7 +41,7 @@
 
 > *"Code is poetry written in logic."* – Anonymous
 
-I'm a passionate **Full Stack MERN Developer** from Kerala, India 🇮🇳, who loves crafting elegant solutions to complex problems. I believe in writing clean, maintainable code and creating seamless user experiences.
+I'm a passionate **Full Stack Developer** from Kerala, India 🇮🇳, who loves crafting elegant solutions to complex problems. I believe in writing clean, maintainable code and creating seamless user experiences.
 
 ### 🎯 Professional Snapshot
 
